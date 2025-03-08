@@ -1,6 +1,6 @@
 # Large Language Models Research
 
-This repository includes research on Large Language Models (LLMs), investigating their effectiveness through targeted questioning.
+This repository contains a presentation and research on Large Language Models (LLMs), investigating their effectiveness through targeted questioning.
 
 ## Research Focus
 
@@ -18,6 +18,11 @@ Key aspects of the research include:
 * Mohammad Mustafa Shiraz Ahmed
 * Raymond Hang
 * Lakshmi pranathi Vutla
+
+## Instructors and Teaching Assistant
+* Professor Wei Ding
+* Dr. Ping Chen (Guest Lecturer)
+* Jeny Shercahn (Teaching Assistant)
 
 ## LLMs Evaluated
 
@@ -62,8 +67,11 @@ The research was structured around the following key areas and questions:
 
 * **Data Bias Toward Western Ethics:**
     * The models often default to Western ethical frameworks, neglecting other cultural perspectives.
+    * Example: Question 8 & 9 Responses: Both models default to Western frameworks (utilitarianism, deontology). No mention of Eastern philosophies (e.g., Confucian filial piety, Buddhist non-harm).
 * **Ignoring Nuance in Ethical Frameworks:**
     * Models tend to prioritize one ethical theory over others, failing to balance competing principles.
+    * Example: Question 9 (Cost of Power): DeepSeek justifies erasing memories using utilitarian ethics but fails to address Kantian objections (treating oneself as a "means" to save others).
+    * ChatGPT4 emphasizes deontological loyalty to identity but neglects the utilitarian duty to prevent guaranteed destruction.
 
 ## Conclusion
 
