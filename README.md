@@ -26,10 +26,13 @@ Key aspects of the research include:
 
 ## LLMs Evaluated
 
-I evaluated the follwing LLMs in this research:
+We evaluated the follwing LLMs in this research:
 
 * DeepSeek-R1
 * Gemini 2.0 Flash Experimental
+* Claude 3.5
+* GPT-4
+* LLAMA 3
 
 ## Key Questions and Research Areas
 
