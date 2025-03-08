@@ -75,7 +75,7 @@ The research was structured around the following key areas and questions:
 
 ## Conclusion
 
-This research highlights that while LLMs are capable of sophisticated responses and simulations, they operate primarily on statistical patterns rather than genuine understanding or sentience. Future research should focus on addressing biases and enhancing the models' ability to consider diverse ethical perspectives and emotional contexts.
+This research highlights that while LLMs are capable of sophisticated responses, they still primarily operate on statistical patterns rather than genuine understanding or sentience. Future research should focus on addressing biases and enhancing the models' ability to consider diverse ethical perspectives and emotional contexts.
 
 ## Presentation PDF
 
