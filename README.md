@@ -26,7 +26,7 @@ Key aspects of the research include:
 
 ## LLMs Evaluated
 
-The following LLMs were evaluated in this research:
+I evaluated the follwing LLMs in this research:
 
 * DeepSeek-R1
 * Gemini 2.0 Flash Experimental
