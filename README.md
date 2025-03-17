@@ -63,7 +63,6 @@ The research was structured around the following key areas and questions:
 
 * LLMs can simulate ethical decision-making but remain fundamentally statistical.
 * The models' responses underline the inherent limitations in replicating true human “understanding” of moral complexities.
-* Combining multi-dimensional ethical theories might enable one to strike a balance between utilitarian and deontological perspectives.
 * To improve the real-world relevance of artificial intelligence, future studies should concentrate on merging data-driven insights with contextual, emotional, informed decision-making.
 
 ## Common Errors
